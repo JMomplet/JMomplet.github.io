@@ -3,16 +3,16 @@
 ## Básico
 
 ### HTML + CSS
-* https://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css
-* https://es.khanacademy.org/computing/computer-programming/html-css
-* https://www.codecademy.com/learn/learn-html
-* https://www.codecademy.com/learn/learn-css
+* <https://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css>
+* <https://es.khanacademy.org/computing/computer-programming/html-css>
+* <https://www.codecademy.com/learn/learn-html>
+* <https://www.codecademy.com/learn/learn-css>
 
 ### Programación
 #### PHP
-* https://www.domestika.org/es/courses/405-introduccion-al-desarrollo-web-con-php
-* https://www.codecademy.com/learn/learn-php
-* https://www.codecademy.com/learn/introduction-to-javascript
+* <https://www.domestika.org/es/courses/405-introduccion-al-desarrollo-web-con-php>
+* <https://www.codecademy.com/learn/learn-php>
+* <https://www.codecademy.com/learn/introduction-to-javascript>
 
 #### Javascript
 * https://es.khanacademy.org/computing/computer-programming/html-css-js
