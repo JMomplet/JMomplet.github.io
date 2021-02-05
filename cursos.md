@@ -15,45 +15,40 @@
 * <https://www.codecademy.com/learn/introduction-to-javascript>
 
 #### Javascript
-* https://es.khanacademy.org/computing/computer-programming/html-css-js
-* https://es.khanacademy.org/computing/computer-programming/html-js-jquery
+* <https://es.khanacademy.org/computing/computer-programming/html-css-js>
+* <https://es.khanacademy.org/computing/computer-programming/html-js-jquery>
 
 ### Bases de datos
 #### MySQL
-* https://es.khanacademy.org/computing/computer-programming/sql
+* <https://es.khanacademy.org/computing/computer-programming/sql>
 
 ## Avanzado
 ### Programación
 #### NodeJS
-Descripción
-* enlaces
+_Proximamente_
 
 #### Angular/Vue
-Descripción
-* enlaces
+_Proximamente_
 
 ## Extra
 ### Git
-* https://www.codecademy.com/learn/learn-git
+* <https://www.codecademy.com/learn/learn-git>
 
 ### Linux
-Descripción
-* enlaces
+_Proximamente_
 
 ### Docker
-Descripción
-* enlaces
-
+_Proximamente_
 
 # Páginas de cursos
 ## Udemy
-https://www.udemy.com/es/topic/web-development/
+<https://www.udemy.com/es/topic/web-development/>
 
 ## Codecademy
-https://www.codecademy.com/catalog/subject/web-development
+<https://www.codecademy.com/catalog/subject/web-development>
 
 ## Domestika
-https://www.domestika.org/es/courses/category/9-tecnologia
+<https://www.domestika.org/es/courses/category/9-tecnologia>
 
 ## Khan Academy
-https://es.khanacademy.org/computing/computer-programming
+<https://es.khanacademy.org/computing/computer-programming>
