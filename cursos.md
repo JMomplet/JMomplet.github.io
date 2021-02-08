@@ -77,5 +77,7 @@ De las cosas más útiles en esta profesión, y poca gente aprende a usarlas com
 <https://es.khanacademy.org/computing/computer-programming>
 
 # Herramientas
-### Visual Studio Code
+## Visual Studio Code
+Editor de código sencillo paro bastante potente y ampliable por plugins fáciles de instalar.
+
 <https://code.visualstudio.com/>
